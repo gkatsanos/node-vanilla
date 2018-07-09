@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5b427e5ed7b1d32e34ddc112",
+    "index": 0,
+    "guid": "6d0486f8-ce6c-40cd-823b-53c83d2e8c06",
+    "isActive": true,
+    "balance": "$2,343.06",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "green",
+    "name": "Stark Ramirez",
+    "gender": "male",
+    "company": "BLUPLANET",
+    "email": "starkramirez@bluplanet.com",
+    "phone": "+1 (899) 531-2832",
+    "address": "594 Joralemon Street, Robbins, Indiana, 2490",
+    "about": "Aute sunt exercitation deserunt eu consequat ullamco sunt anim eiusmod. Pariatur nisi sunt officia dolore labore ut fugiat nisi. Excepteur do do fugiat id laborum. Occaecat duis laboris est laborum magna. Enim magna aliquip consequat cillum mollit deserunt.\r\n",
+    "registered": "2014-04-06T08:18:46 -02:00",
+    "latitude": -42.41715,
+    "longitude": 87.164432,
+    "tags": [
+      "reprehenderit",
+      "laborum",
+      "ea",
+      "veniam",
+      "adipisicing",
+      "cupidatat",
+      "quis"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Little Berger"
+      },
+      {
+        "id": 1,
+        "name": "Bates Diaz"
+      },
+      {
+        "id": 2,
+        "name": "Barr Hughes"
+      }
+    ],
+    "greeting": "Hello, Stark Ramirez! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5b427e5e119c2fbddb4f1268",
+    "index": 1,
+    "guid": "3e6764cd-fe16-4345-971b-6cfd1d8033d3",
+    "isActive": true,
+    "balance": "$2,812.25",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": "Norman Mcguire",
+    "gender": "male",
+    "company": "GOLISTIC",
+    "email": "normanmcguire@golistic.com",
+    "phone": "+1 (874) 546-3138",
+    "address": "997 Bergen Street, Beyerville, Delaware, 5991",
+    "about": "Ad Lorem irure in cupidatat deserunt elit pariatur deserunt nulla. Minim excepteur enim nisi duis aliqua culpa eu. Ad nostrud culpa commodo id laborum quis laboris pariatur nisi laboris exercitation. Veniam id eiusmod esse reprehenderit Lorem labore.\r\n",
+    "registered": "2015-07-15T09:04:17 -02:00",
+    "latitude": 19.473842,
+    "longitude": -143.348438,
+    "tags": [
+      "consequat",
+      "tempor",
+      "laborum",
+      "officia",
+      "laboris",
+      "quis",
+      "reprehenderit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Faye Hanson"
+      },
+      {
+        "id": 1,
+        "name": "Barbra Levy"
+      },
+      {
+        "id": 2,
+        "name": "Johnston Cantrell"
+      }
+    ],
+    "greeting": "Hello, Norman Mcguire! You have 2 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5b427e5ebf49ce481bd43a67",
+    "index": 2,
+    "guid": "ec9c96d8-7c4f-4726-8ca2-c50613b3715d",
+    "isActive": true,
+    "balance": "$1,877.60",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "brown",
+    "name": "Alma Talley",
+    "gender": "female",
+    "company": "ONTALITY",
+    "email": "almatalley@ontality.com",
+    "phone": "+1 (964) 496-2932",
+    "address": "142 Brigham Street, Ona, Nevada, 1137",
+    "about": "Adipisicing quis consectetur nostrud nostrud non pariatur sunt. Ut eu reprehenderit reprehenderit proident. Labore non occaecat enim minim irure ut est adipisicing minim veniam dolor eu tempor exercitation.\r\n",
+    "registered": "2015-01-15T07:26:15 -01:00",
+    "latitude": -50.41181,
+    "longitude": 75.556272,
+    "tags": [
+      "reprehenderit",
+      "ut",
+      "voluptate",
+      "magna",
+      "officia",
+      "laboris",
+      "ipsum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jennie Montgomery"
+      },
+      {
+        "id": 1,
+        "name": "Lawrence Glenn"
+      },
+      {
+        "id": 2,
+        "name": "Kramer Kirkland"
+      }
+    ],
+    "greeting": "Hello, Alma Talley! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5b427e5e6b197a10f4ebeb85",
+    "index": 3,
+    "guid": "3b53682f-d605-4875-8b55-7f2793455c07",
+    "isActive": false,
+    "balance": "$2,106.29",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "brown",
+    "name": "Adele Meyer",
+    "gender": "female",
+    "company": "CONFERIA",
+    "email": "adelemeyer@conferia.com",
+    "phone": "+1 (885) 457-3930",
+    "address": "542 Frost Street, Barclay, Guam, 3237",
+    "about": "Dolor exercitation enim et dolor exercitation qui ex eu. Esse reprehenderit commodo pariatur dolor dolor magna amet qui ex. Voluptate sunt officia reprehenderit deserunt aliquip aliquip tempor tempor. Non non consequat pariatur pariatur labore officia ea laborum elit labore elit amet ad nisi.\r\n",
+    "registered": "2015-10-22T11:37:09 -02:00",
+    "latitude": 70.761517,
+    "longitude": -160.546506,
+    "tags": [
+      "non",
+      "enim",
+      "elit",
+      "quis",
+      "et",
+      "exercitation",
+      "ex"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Nadine Farmer"
+      },
+      {
+        "id": 1,
+        "name": "Torres Stuart"
+      },
+      {
+        "id": 2,
+        "name": "Susanne Nielsen"
+      }
+    ],
+    "greeting": "Hello, Adele Meyer! You have 6 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5b427e5e798679edf115a1ac",
+    "index": 4,
+    "guid": "732aacbc-b250-4556-ac03-d9880bc63524",
+    "isActive": true,
+    "balance": "$2,408.17",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Hardin Simon",
+    "gender": "male",
+    "company": "TOYLETRY",
+    "email": "hardinsimon@toyletry.com",
+    "phone": "+1 (896) 423-2771",
+    "address": "785 Foster Avenue, Dawn, North Carolina, 5028",
+    "about": "Consequat ex anim ad sit amet ullamco. Ipsum excepteur in commodo mollit amet. Enim voluptate mollit exercitation nostrud eu occaecat.\r\n",
+    "registered": "2014-12-10T07:37:58 -01:00",
+    "latitude": 21.100003,
+    "longitude": -69.858752,
+    "tags": [
+      "ullamco",
+      "nostrud",
+      "excepteur",
+      "mollit",
+      "proident",
+      "amet",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ellen Barton"
+      },
+      {
+        "id": 1,
+        "name": "Maxwell Holt"
+      },
+      {
+        "id": 2,
+        "name": "Lane Johnson"
+      }
+    ],
+    "greeting": "Hello, Hardin Simon! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
